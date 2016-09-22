@@ -1,4 +1,4 @@
-package de.example.frank.location;
+package de.example.mpongrac.location;
 
 import org.junit.Test;
 
